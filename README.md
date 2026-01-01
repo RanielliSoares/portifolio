@@ -70,7 +70,7 @@ Este portfólio foi construído utilizando tecnologias modernas e boas práticas
 
 🔗 **[Portfolio Online](https://ranielli-soares.dev)** *(em breve)*
 
-📧 **Contato Profissional**: ranielli@email.com
+📧 **Contato Profissional**: ranielli.pinho@outlook.com
 
 ## � Sobre Mim
 
